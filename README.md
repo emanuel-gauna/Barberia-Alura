@@ -12,7 +12,7 @@
 * en la parte de estilos se le incorporo (colores,fondos,fuentes,bordes,opacidad,eventos del mousse y del click)
 * 
 
-* ["Visita la página en este enlace"]()
+* ["Visita la página en este enlace"](https://emanuel-gauna.github.io/Barberia-Alura/index.html)
 
 * Tecnologías utilizadas: HTML5, CSS3 
 
