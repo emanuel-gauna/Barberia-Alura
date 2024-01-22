@@ -10,7 +10,6 @@
 
 * comprende 3 vistas Home-Productos y contacto estas son responsivas se adaptan al dispositivo en el que se visualiza (movil-escritorio). la estructura html consta de tags separados de forma semantica para una experiencia agradable al usuario como (titulos,parrafos,secciones,tablas,formularios,inputs,enlaces a otras páginas,videos,imagenes.listas)
 * en la parte de estilos se le incorporo (colores,fondos,fuentes,bordes,opacidad,eventos del mousse y del click)
-* 
 
 * ["Visita la página en este enlace"](https://emanuel-gauna.github.io/Barberia-Alura/index.html)
 
